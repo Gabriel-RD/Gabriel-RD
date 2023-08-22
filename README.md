@@ -1,7 +1,7 @@
 ### Iai pessoal!😁
 
 
-**Olá!👋
+Olá!👋
 Sou Gabrie e nesse readme.md, eu conto um pouco sobre quem eu sou.
 Atualmente estou focado estudando programação, na escola cubos academy, na área de Desenvolvimento de Software Back-end.
 
