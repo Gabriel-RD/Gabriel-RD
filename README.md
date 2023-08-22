@@ -2,7 +2,7 @@
 
 
 Olá!👋
-Sou Gabrie e nesse readme.md, eu conto um pouco sobre quem eu sou.
+Sou Gabriel e nesse readme.md, eu conto um pouco sobre quem eu sou.
 Atualmente estou focado estudando programação, na escola cubos academy, na área de Desenvolvimento de Software Back-end.
 
 Busco, evolução, experiências e novas habilidades, para aperfeiçoar o meu ser pessoal e construir o meu ser profissional. 
